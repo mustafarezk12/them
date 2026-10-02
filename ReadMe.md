@@ -26,8 +26,6 @@
 
 ---
 
-# 💫 About Me:
-AI & Data Platform Engineer 
 
 
 ## 🌐 Socials:
